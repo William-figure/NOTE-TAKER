@@ -9,8 +9,8 @@
  To get started with the Note Taker App, follow these steps:
  1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/note-taker-app.git
-   cd note-taker-app
+   git clone https://github.com/William-figure/NOTE-TAKER 
+   cd NOTE-TAKER
    ```
 2. **Install dependencies**:
    Make sure you have Node.js installed, then run:
