@@ -3,7 +3,7 @@
  write, save, and delete notes.
  ## Features- Write and save notes.- View saved notes.- Delete notes.
  ## Demo
- ![note-taker](../NOTE-TAKER/img/note-taker.gif)  
+ ![note-taker](img/note-taker.gif)  
 *Preview of the functionality*
  ## Installation
  To get started with the Note Taker App, follow these steps:
