@@ -1,0 +1,25 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Probably the simplest form of the note taking tool in the globe",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/William-figure/NOTE-TAKER.git"
+  },
+  "keywords": [
+    "note-taker"
+  ],
+  "author": "Yucheng Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/William-figure/NOTE-TAKER/issues"
+  },
+  "homepage": "https://github.com/William-figure/NOTE-TAKER#readme",
+  "devDependencies": {
+    "express": "^4.19.2"
+  }
+}
